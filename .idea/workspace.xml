@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd4e9e2a-046e-41de-922b-d51418060f19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/${basePath}/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/Features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/Features/LoginDDTExcel.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/Features/Registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/logs/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/reports/myreport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/factory/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/pageObjects/ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/stepDefinitions/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/stepDefinitions/RegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/testRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/java/utilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-19-51/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-20-45/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-21-50/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-26-00/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-27-39/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-42-12/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-44-24/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-45-57/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-52-49/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 11-12-23 07-52-49/Screenshots/embedded1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/test-output/SparkReport 8-12-23 12-48-04/Report/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/testData/Opencart_LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arhive_files/ARHIVA ziua_59/opencart_cucumber/testData/~$Opencart_LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/THIRD_PARTY_NOTICES.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/LoginDDTExcel.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/Registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-2024-05-15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/myreport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test-output/SparkReport/CucumberExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Cucumber_Framework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataDrivenTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factory/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factory/BaseClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AccountRegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/RegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testData/LoginData.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testData/LoginData.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2slb4cKWolbTVLjGZnDlfa2mCEB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.TestRunner (1).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/Project_CucumberComplet/src/test/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.customizations"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_CucumberComplet\src\test\java" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_CucumberComplet\features" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_CucumberComplet\src\test-output\SparkReport" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_CucumberComplet\src\test" />
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_CucumberComplet\reports" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_CucumberComplet\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner (1)">
+    <configuration name="TestRunner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_Cucumber_Hub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_CucumberComplet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner (1)" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd4e9e2a-046e-41de-922b-d51418060f19" name="Changes" comment="" />
+      <created>1739032920875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739032920875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

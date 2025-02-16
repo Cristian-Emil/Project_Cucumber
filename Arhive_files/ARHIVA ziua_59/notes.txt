@@ -1,0 +1,22 @@
+Cucumber framework
+-------------
+data driven testing
+--
+-> Scenario Outline Examples
+
+Data driven testing using Excel sheet
+-----
+Test data
+Scenario Outline
+DataReader
+
+passing multiple parameters nto one step using data table concept...
+
+Run only failure screnarios..
+
+run scenarios on grid..
+
+run scenarios through pom.xml
+
+run scenarios through maven command prompt
+
